@@ -1,0 +1,6 @@
+d:\Dropbox (EP)\309. PROJECTS\002. SFP 1x10\011. Electronics\041. APD Flex\101. APD Flex Mockup\GF-032-V2-GERBER-DXF\GF-032-V2-GERBER-DXF\
+imported using mm as unit
+
+
+Flex pad layout from CST exported
+Import with 0.001mm as unit. (and place on origin)
